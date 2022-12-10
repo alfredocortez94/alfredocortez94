@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome é Alfredo Cortez, sou um programador Front-End e, atualmente estou aprendendo e criando projetos com: ✏️
+Meu nome é Alfredo Cortez, sou um programador Front-End e, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 - <a href = "https://www.google.com.br/" target = "_blank"><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html-logo"></a>
@@ -16,6 +16,7 @@ na Dev Club com Rodolfo Mori. 🚀</b> <br>
 <br>
 Minhas outras redes sociais:point_down:
 <br>
+
 <a href = "https://www.instagram.com/alfredocortezdev/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "instagram-logo"></a>
 <a href = "https://www.https://www.linkedin.com/in/alfredo-cortez-0a24a1186/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "linkedin-logo"></a>
 
