@@ -8,6 +8,9 @@ Meu nome é Alfredo Cortez, sou um programador Front-End e, atualmente estou apr
 - <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt = "git-logo">
 - <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript-logo">
 <br>
+Aprofundando os conhecimentos
+na Dev Club com Rodolfo Mori. 🚀
+
 <b>### Connect with me </b>
 <br>
 Minhas outras redes sociais:point_down:
