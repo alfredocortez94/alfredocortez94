@@ -17,7 +17,6 @@ Minhas outras redes sociais:point_down:
 
 
 
-[![Alfredo Cortez stats](https://github-readme-stats.vercel.app/api?username=lucasoliveiraDEV22)](https://github.com/anuraghazra/github-readme-stats)
+[![Alfredo Cortez stats](https://github-readme-stats.vercel.app/api?username=alfredocortez94)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasoliveiraDEV22)](https://github.com/anuraghazra/github-readme-stats)
 
