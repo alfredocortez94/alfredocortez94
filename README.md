@@ -8,8 +8,11 @@ Meu nome é Alfredo Cortez, sou um programador Front-End e, atualmente estou apr
 - <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt = "git-logo">
 - <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript-logo">
 <br>
-Aprofundando os conhecimentos
-na Dev Club com Rodolfo Mori. 🚀
+<b> Aumentando os conhecimentos<br>
+na Dev Club com Rodolfo Mori. 🚀</b> <br>
+
+   <a href=https://rodolfomori.com.br/recado-importante/><img src=https://rodolfomori.com.br/wp-content/webp-express/webp-images/uploads/2022/02/LOGO_1-768x768.png.webp width=80px height=80px></a>
+   
 
 <b>### Connect with me </b>
 <br>
