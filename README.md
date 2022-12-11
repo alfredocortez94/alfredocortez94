@@ -21,6 +21,6 @@ Minhas outras redes sociais:point_down:
 <a href = "https://www.https://www.linkedin.com/in/alfredo-cortez-0a24a1186/" target = "_blank"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "linkedin-logo"></a>
 
 
-[![Alfredo Cortez stats](https://github-readme-stats.vercel.app/api?username=alfredocortez94)](https://github.com/anuraghazra/github-readme-stats)
+[![Alfredo Cortez stats]
 
 
