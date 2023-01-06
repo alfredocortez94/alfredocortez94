@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there
+### Olá, Tudo blz?👋
 
 Meu nome é Alfredo Cortez, sou um programador Front-End e, atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
-- <a href = "https://www.google.com.br/" target = "_blank"><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html-logo"></a>
-- <a href = "https://www.google.com.br/" target = "_blank"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css-logo"></a>
+- <a href = "https://github.com/alfredocortez94?tab=repositories" target = "_blank"><img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html-logo"></a>
+- <a href = "https://github.com/alfredocortez94?tab=repositories" target = "_blank"><img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css-logo"></a>
 - <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt = "git-logo">
 - <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "javascript-logo">
 <br>
