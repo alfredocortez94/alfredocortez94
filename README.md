@@ -1,5 +1,4 @@
-### Hi there
-### Olá, Tudo blz?👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=100&width=450&height=60&lines=Hi+There%E2%9C%8C;Ol%C3%A1%2C+Tudo+Blz%3F+%F0%9F%98%8E" alt="Typing SVG" /></a>
 
 Meu nome é Alfredo Cortez, sou um programador Front-End e, atualmente estou aprendendo e criando projetos com:
 <br>
