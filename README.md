@@ -4,7 +4,7 @@ Meu nome é Alfredo Cortez, sou um programador Front-End e em estudo de Desenvol
 <br>
 <br>
 
-Minhas redes sociais:point_down:
+Minhas redes sociais:
 <br>
 <br>
 <a href = "https://www.instagram.com/alfredocortezdev/" target = "_blank"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "instagram-logo"></a>
