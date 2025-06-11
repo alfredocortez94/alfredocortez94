@@ -6,6 +6,8 @@
 
 <img align="right" alt="Developer" height="150px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
+<br>
+
 **Desenvolvedor Front-End** em evolução para **Full Stack** 🚀
 
 ```javascript
@@ -63,8 +65,8 @@ const alfredo = {
 
 - [x] Dominar HTML, CSS e JavaScript
 - [ ] Me tornar Full Stack Developer
-- [ ] Aprender React e Node.js
-- [ ] Primeira vaga como desenvolvedor
+- [X] Aprender React, Node.js e Typescript
+- [ ] Ampliar o estudo em outras linguagens
 
 ---
 
