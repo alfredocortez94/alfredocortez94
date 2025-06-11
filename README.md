@@ -1,9 +1,5 @@
 # 👋 Olá! Eu sou Alfredo Cortez
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hi+There!+👋;Desenvolvedor+Front-End;Estudando+Full+Stack;Transformando+ideias+em+código!" alt="Typing SVG" />
-</div>
-
 ---
 
 ## 🚀 Sobre Mim
