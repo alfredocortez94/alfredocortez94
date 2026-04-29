@@ -1,8 +1,6 @@
 # Olá, eu sou Alfredo Cortez! 👋
 
-<img align="right" alt="Developer" height="150px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-<p></p>
 **Desenvolvedor Full Stack JS** apaixonado por transformar ideias em produtos digitais. Construo soluções do front ao back, com foco em TypeScript, automações e interfaces modernas. 🚀
 
 ```typescript
